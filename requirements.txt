@@ -1,0 +1,18 @@
+# LangChain Core & Google GenAI Integration
+langchain>=0.2.0
+langchain-google-genai>=1.0.0
+langchain-community>=0.2.0
+langgraph>=0.2.0
+
+# Vector Store
+faiss-cpu>=1.8.0
+
+# Testing Framework
+deepeval>=0.21.0
+
+# Observability
+langfuse>=2.0.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
